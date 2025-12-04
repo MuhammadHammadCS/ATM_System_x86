@@ -46,7 +46,7 @@ The project integrates structured programming concepts (modularity, abstraction,
 
 ---
 
-# 📦 2. Project Description
+# 2. Project Description
 
 ### Included Features
 
